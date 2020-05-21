@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/VirelM/Noteful-refactored/static/css/main.48674d78.chunk.css",
+    "main.js": "/VirelM/Noteful-refactored/static/js/main.d4c15fed.chunk.js",
+    "main.js.map": "/VirelM/Noteful-refactored/static/js/main.d4c15fed.chunk.js.map",
+    "runtime-main.js": "/VirelM/Noteful-refactored/static/js/runtime-main.f60629ee.js",
+    "runtime-main.js.map": "/VirelM/Noteful-refactored/static/js/runtime-main.f60629ee.js.map",
+    "static/css/2.ac3a56f4.chunk.css": "/VirelM/Noteful-refactored/static/css/2.ac3a56f4.chunk.css",
+    "static/js/2.4bbe745e.chunk.js": "/VirelM/Noteful-refactored/static/js/2.4bbe745e.chunk.js",
+    "static/js/2.4bbe745e.chunk.js.map": "/VirelM/Noteful-refactored/static/js/2.4bbe745e.chunk.js.map",
+    "index.html": "/VirelM/Noteful-refactored/index.html",
+    "precache-manifest.c5ca4567dbc65acea6d918681b79cbd6.js": "/VirelM/Noteful-refactored/precache-manifest.c5ca4567dbc65acea6d918681b79cbd6.js",
+    "service-worker.js": "/VirelM/Noteful-refactored/service-worker.js",
+    "static/css/2.ac3a56f4.chunk.css.map": "/VirelM/Noteful-refactored/static/css/2.ac3a56f4.chunk.css.map",
+    "static/css/main.48674d78.chunk.css.map": "/VirelM/Noteful-refactored/static/css/main.48674d78.chunk.css.map",
+    "static/js/2.4bbe745e.chunk.js.LICENSE.txt": "/VirelM/Noteful-refactored/static/js/2.4bbe745e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/VirelM/Noteful-refactored/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f60629ee.js",
+    "static/css/2.ac3a56f4.chunk.css",
+    "static/js/2.4bbe745e.chunk.js",
+    "static/css/main.48674d78.chunk.css",
+    "static/js/main.d4c15fed.chunk.js"
+  ]
+}
